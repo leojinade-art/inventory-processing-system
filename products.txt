@@ -1,0 +1,8 @@
+ product_name:   T-shirt  ; quantity = 78 ; price: 55 Euro; out of stock : YES
+product_name:Sunglasses  ; quantity = 45 ; price: 15 Euro;out of stock:no
+ product_name:  Shorts  ; quantity = 122 ; price: 33 Euro; out of stock : no
+product_name: Trousers  ; quantity = 22 ; price: 99 Euro; out of stock: YES
+product_name:   T-shirt  ; quantity = 31 ; price: 55 Euro; out of stock:no
+ product_name:   Socks  ; quantity = 219 ; price: 55 Euro; out of stock : No
+ product_name: l4234 ; quantity=243;44, 20, out of stock: ++
+ product_name: Cap ; quantity=000, 20, out of stock: ???
